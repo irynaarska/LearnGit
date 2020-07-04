@@ -1,2 +1,2 @@
-Git is awesome 
-Hello git 
+Hello git
+Git is awesome.
