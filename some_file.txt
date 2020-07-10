@@ -1,5 +1,2 @@
-Line from terminal
-Line from github
-Git is awesome.
-Third line"after stash" 
-"before stash" 
+something 
+"Line to branch" 
