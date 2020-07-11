@@ -1,1 +1,6 @@
-something 
+"Line from terminal"
+"Line from GitHub"
+"Git is awesome"
+"Forth Line"
+"after stash"
+"Line to stash"
