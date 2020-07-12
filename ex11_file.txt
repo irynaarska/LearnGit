@@ -1,0 +1,2 @@
+This is ex from master 
+And this is second row in it 
